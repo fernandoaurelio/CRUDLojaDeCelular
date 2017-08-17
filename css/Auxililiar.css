@@ -1,0 +1,21 @@
+#LogoNavPena{
+    width: 96px;
+    margin-top: -16px;
+}
+#PesquisaNav{
+    width: 200px;
+}
+#JanelaFrame{
+    width: 400px;
+    height: 800px;
+    margin-top: 60px;
+    
+    border: none;
+    
+}
+#InputForm{
+    width: 300px;
+}
+#Amostra{
+    margin-top: 60px;
+}
